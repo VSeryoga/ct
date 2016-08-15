@@ -1,0 +1,12 @@
+h1{
+	text-align: center;
+}
+.comments{
+	margin-top: 20px;
+	border: 1px solid gainsboro;
+	border-radius: 5px;
+	padding: 20px;
+}
+.add_comment{
+	margin-top: 20px;
+}
