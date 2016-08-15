@@ -1,8 +1,8 @@
 <?php
 $dblocation = "localhost"; // Имя сервера
-$dbuser = "p22601_parser";          // Имя пользователя
-$dbpasswd = "p22601";            // Пароль
-$dbname = "p22601_parser";
+$dbuser = "p2_parser";          // Имя пользователя
+$dbpasswd = "p2";            // Пароль
+$dbname = "p2_parser";
 
 $dbcnx = @mysql_connect($dblocation,$dbuser,$dbpasswd)
 or die ('Not connected : ' . mysql_error());
